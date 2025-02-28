@@ -13,4 +13,7 @@ vosk-model-small-ru-0.22
 ## Run
 
 python peta.py
+
+Если все пройдет хорошо, вам ответят.
+
 ![xakerm](peta.png)
